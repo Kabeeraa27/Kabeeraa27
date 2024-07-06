@@ -17,8 +17,6 @@
 
 [<img align="left" alt="Git" width="40px" src="https://github.com/sahilsingh2402/sahilsingh2402/blob/main/files_ss2402/git.svg" />](https://git-scm.com/)
 
-[<img align="left" alt="C" width="40px" src="https://github.com/sahilsingh2402/sahilsingh2402/blob/main/files_ss2402/c-original.svg" />](https://www.cprogramming.com/)
-
 [<img align="left" alt="CPP" width="40px" src="https://github.com/sahilsingh2402/sahilsingh2402/blob/main/files_ss2402/cpp.svg" />](https://www.cplusplus.com/)
 
 [<img align="left" alt="PYTHON" width="40px" src="https://github.com/sahilsingh2402/sahilsingh2402/blob/main/files_ss2402/python.svg" />](https://www.python.org/)
@@ -34,7 +32,6 @@
 <a href="https://scikit-learn.org/stable/">
     <img src="https://icon.icepanel.io/Technology/svg/scikit-learn.svg" alt="Scikit-Learn" style="height: 50px;">
 </a>
-
 
 <br>
 <br>
@@ -62,5 +59,6 @@
 </p> -->
   
 ###
+
 
 
