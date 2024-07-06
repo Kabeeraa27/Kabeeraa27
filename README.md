@@ -31,7 +31,10 @@
 
 [<img align="left" alt="MYSQL" width="40px" src="https://github.com/sahilsingh2402/sahilsingh2402/blob/main/files_ss2402/mysql.svg" />](https://www.mysql.com/)
 
-[![Scikit-Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/stable/)
+<a href="https://scikit-learn.org/stable/">
+    <img src="https://icon.icepanel.io/Technology/svg/scikit-learn.svg" alt="Scikit-Learn" style="height: 50px;">
+</a>
+
 
 <br>
 <br>
