@@ -1,5 +1,10 @@
 <h2 align="left">Hi 👋! I'm Kabeer Choudhary </h2>
 
+<!-- 
+PROFILE VIEW COUNT
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Kabeeraa27&label=Profile%20views&color=f1d104&style=flat-square" alt="Kabeeraa27" /> </p> <p align="left"> 
+-->
+
 ###
 
 <a href="https://github.com/DenverCoder1/readme-typing-svg">
