@@ -17,7 +17,13 @@ PROFILE VIEW COUNT
 
 - I am a 3rd year Computer Science Engineering Undergrad pursuing MBA Tech at <a href="https://www.nmims.edu/"><b>NMIMS</b></a>
 - Have a Keen Interest in Machine Learning and Data Science
-- Currently exploring Deep Learning using [![TensorFlow Badge](https://img.shields.io/badge/-TensorFlow-D35400?style=flat&logoColor=white)](https://www.tensorflow.org/) 
+- Currently exploring Deep Learning using [![TensorFlow Badge](https://img.shields.io/badge/-TensorFlow-D35400?style=flat&logoColor=white)](https://www.tensorflow.org/)
+  
+### 📄 Resume
+
+[![Resume](https://img.shields.io/badge/View%20My%20Resume-Click%20Here-brightgreen?style=for-the-badge&logo=google-drive)](https://drive.google.com/file/d/13mubCzRf5sjUMdgizvft-diWKx35_y_4/view?usp=sharing)
+
+
 
 ## Languages and Tools 🧰
 
